@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Vasishtha</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<img align="right" alt="" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="" width="200" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatrandomguy09&label=Profile%20views&color=0e75b6&style=flat" alt="thatrandomguy09" /> </p>
 
