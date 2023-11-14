@@ -11,19 +11,19 @@
 
 - 🔭 I’m currently working on **NextJS Js**
 
-- 🌱 I’m currently learning **Redux and Docker, Supabase**
+- 🌱 I’m currently learning **Redux and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThatRandomGuy09](https://github.com/ThatRandomGuy09)
 
-- 💬 Ask me about **JavaScript, ReactJS, ExpressJs,MongoDB**
+- 💬 Ask me about **JavaScript, ReactJS, NextJs, ExpressJs, MongoDB, NodeJs**
 
-- 📫 How to reach me **Vansh19092002@gmail.com**
+- 📫 How to reach me **vanshhcodes@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1DOekfLPzv7pBQEg1wRH3HTNZFi5ryWZp?usp=share_link](https://drive.google.com/drive/folders/1DOekfLPzv7pBQEg1wRH3HTNZFi5ryWZp?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thatrandomguy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatrandomguy09" height="30" width="40" /></a>
+<a href="https://twitter.com/ThatRandomGuy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatrandomguy09" height="30" width="40" /></a>
 <a href="https://fb.com/vansh vasishtha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vansh vasishtha" height="30" width="40" /></a>
 <a href="https://instagram.com/whovanshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whovanshhh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thatrandomguy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thatrandomguy09" height="30" width="40" /></a>
