@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NextJs**
 
-- 🌱 I’m currently learning **Typescript,Docker,PostGresSQL,Rust**
+- 🌱 I’m currently learning **Typescript,Docker,PostGresSQL,Prisma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThatRandomGuy09](https://github.com/ThatRandomGuy09)
 
