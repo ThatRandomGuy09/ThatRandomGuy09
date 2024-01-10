@@ -7,7 +7,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about Frontend De
 
 ## 🔭 Current Endeavors 
 
-I'm currently a full Stack developer, where my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently a full-stack developer, where my journey involves both building and learning. Here's what I'm currently focused on:
 
 - I'm engaged in exciting full-stack projects.
 - my current Tech Stacks include NextJs, Typescript, and Javascript.
