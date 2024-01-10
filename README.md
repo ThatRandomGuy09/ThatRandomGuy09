@@ -20,5 +20,6 @@ I'm currently a full Stack Dveloper, where my journey involves both building and
 
 ## 📫 Contact
 
- For a quick response, Mail me on [Gmail](vanshhcodes@gmail.com) or [LinkedIn]((https://www.linkedin.com/in/thatrandomguy09/). 
+ For a quick response, Mail me on [Gmail](vanshhcodes@gmail.com) or [X](https://twitter.com/ThatRandomGuy09) 
+
  
