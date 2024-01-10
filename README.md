@@ -3,7 +3,7 @@
 I'm a 21-year-old developer based in India, and I'm passionate about Frontend Development. 
 
 - Check out my [website](https://vanshvasishtha.vercel.app/) to learn more about me.
-- [LinkedIn](https://www.linkedin.com/in/thatrandomguy09/) 
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/thatrandomguy09/) 
 
 ## 🔭 Current Endeavors 
 
