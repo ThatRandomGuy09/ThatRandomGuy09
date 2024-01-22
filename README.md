@@ -11,7 +11,7 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
 - I'm engaged in exciting full-stack projects.
 - my current Tech Stacks include NextJs, Typescript, and Javascript.
-- I'm exploring different tools and libraries to enhance my skill set, for now, I am Learning docker, Prisma, and Sockets.
+- I'm exploring different tools and libraries to enhance my skill set, for now, I am Learning docker, Prisma, Web Sockets, and Redis.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
