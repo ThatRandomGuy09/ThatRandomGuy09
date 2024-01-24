@@ -8,15 +8,27 @@ I'm a 21-year-old developer based in India, and I'm passionate about Frontend De
 ## 🔭 Current Endeavors 
 
 I'm currently a full-stack developer, and my journey involves both building and learning. Here's what I'm currently focused on:
-
 - I'm engaged in exciting full-stack projects.
-- my current Tech Stacks include NextJs, Typescript, and Javascript.
-- I'm exploring different tools and libraries to enhance my skill set, for now, I am Learning docker, Prisma, Web Sockets, and Redis.
 - I'm an early riser, always driven and constantly learning in the tech world.
+
+  ## 📦 Toolbox
+
+**Frontend Development:**  `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Backend Development:** `Node.js` `Express.js` `Next.js` 
+
+**Databases:** `PostgreSQL` `MongoDB` `MySQL` 
+
+**Testing:**  `Postman` `Insomnia`
+
+**Others:** `Docker` `Prisma` `Redis`   
 
 ## ✨ Fun Facts 
 
 - I love playing Chess and Football.
+- I read in my free time
 
 ## 📫 Contact
 
