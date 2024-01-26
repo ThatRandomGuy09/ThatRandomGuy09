@@ -17,7 +17,7 @@ I'm currently a full-stack developer, and my journey involves both building and 
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Node.js` `Express.js` `Next.js` 
+**Backend Development:** `Node.js` `Express.js` `Next.js` `Mongoose` 
 
 **Databases:** `PostgreSQL` `MongoDB` `MySQL` 
 
