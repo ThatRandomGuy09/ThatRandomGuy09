@@ -28,7 +28,7 @@ I'm currently a full-stack developer, and my journey involves both building and 
 ## ✨ Fun Facts 
 
 - I love playing Chess and Football.
-- I read in my free time
+- I read in my free time.
 
 ## 📫 Contact
 
