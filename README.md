@@ -23,7 +23,7 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
 **Testing:**  `Postman` `Insomnia`
 
-**Others:** `Docker` `Prisma` `Redis`   
+**Others:** `Docker` `Redis` `Prisma`    
 
 ## ✨ Fun Facts 
 
