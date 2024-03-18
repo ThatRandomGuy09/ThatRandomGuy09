@@ -19,7 +19,7 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
 **Backend Development:** `Node.js` `Express.js` `Next.js` `Mongoose` 
 
-**Databases:** `PostgreSQL` `MongoDB` `MySQL` 
+**Databases:** `PostgreSQL` `MongoDB` `MySQL` `Firebase`
 
 **Testing:**  `Postman` `Insomnia`
 
