@@ -13,17 +13,17 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
   ## 📦 Toolbox
 
-**Frontend Development:**  `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:**  `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `shadcn/ui` `Framer-Motion`
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Node.js` `Express.js` `Next.js` `Mongoose` 
+**Backend Development:** `Node.js` `Express.js` `Next.js`  
 
 **Databases:** `PostgreSQL` `MongoDB` `MySQL` `Firebase`
 
 **Testing:**  `Postman` `Insomnia`
 
-**Others:** `Docker` `Redis` `Prisma`    
+**Others:** `Docker` `Redis` `Prisma` `Drizzle`   
 
 ## ✨ Fun Facts 
 
