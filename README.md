@@ -30,6 +30,13 @@ I'm currently a full-stack developer, and my journey involves both building and 
 - I love playing Chess and Football.
 - I read in my free time.
 
+- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ThatRandomGuy09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatRandomGuy09&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a>
+</ br>
+
 ## 📫 Contact
 
  For a quick response, Mail me on [Gmail](vanshhcodes@gmail.com) or [X](https://twitter.com/ThatRandomGuy09) 
