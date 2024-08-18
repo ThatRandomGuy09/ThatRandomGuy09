@@ -23,7 +23,9 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
 **Testing:**  `Postman`
 
-**Others:** `Docker` `Redis` `Prisma` `Drizzle`   
+**Others:** `Docker` `Redis` `Prisma` `Drizzle`
+
+**Deployments:**  `Vercel` `AWS` `Netlify` `Railway`
 
 ## ✨ Fun Facts 
 
