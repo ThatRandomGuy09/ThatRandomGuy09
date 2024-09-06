@@ -25,7 +25,7 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
 **Others:** `Docker` `Redis` `Prisma` `Drizzle`
 
-**Deployments:**  `Vercel` `AWS` `Netlify` `Railway`
+**Deployments:**  `Vercel` `AWS` `Netlify` `Railway` `Cloudfare`
 
 ## ✨ Fun Facts 
 
