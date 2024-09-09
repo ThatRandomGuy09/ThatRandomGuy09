@@ -34,6 +34,6 @@ I'm currently a full-stack developer, and my journey involves both building and 
 
 ## 📫 Contact
 
- For a quick response, Mail me on [Gmail](vanshhcodes@gmail.com) or [X](https://twitter.com/ThatRandomGuy09) 
+ For a quick response, Mail me on [Gmail](vanshhcodes@gmail.com) OR [cal.com](https://cal.com/thatrandomguy09/15min?date=2024-09-10)
 
  
