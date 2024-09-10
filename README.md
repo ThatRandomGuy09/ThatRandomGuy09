@@ -7,7 +7,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about Full Stack 
 
 ## 🔭 Current Endeavors 
 
-I'm currently a full-stack developer, and my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently a full-stack developer, and my journey involves both building and learning Here's what I'm currently focused on:
 - I'm engaged in exciting full-stack projects.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
