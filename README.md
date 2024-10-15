@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ThatRandomGuy09)
+<br/>
 ### Hey, I'm Vansh 👋 
 
 I'm a 21-year-old developer based in India, and I'm passionate about Full Stack Development. 
