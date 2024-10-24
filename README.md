@@ -30,13 +30,6 @@ I'm currently a full-stack developer, and my journey involves both building and 
 **Deployments:**  `Vercel` `AWS` `Netlify` `Railway` `Cloudfare`
 
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ThatRandomGuy09&show_icons=true&locale=en&theme=radical&hide_border=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=ThatRandomGuy09&theme=radical&hide_border=true" alt="ThatRandomGuy09" /></td>
-  </tr>
-</table>
-
 ## ✨ Fun Facts 
 
 - I love playing Chess and Football.
