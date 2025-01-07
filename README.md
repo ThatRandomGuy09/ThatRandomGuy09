@@ -2,7 +2,7 @@
 <br/>
 ### Hey, I'm Vansh 👋 
 
-I'm a 21-year-old developer based in India, and I'm passionate about Full Stack Development. 
+I'm a 22-year-old developer based in India, and I'm passionate about Full Stack Development. 
 
 - Check out my [Portfolio](https://vanshvasishtha.vercel.app/) to learn more about me.
 - Stay updated with my journey on [X](https://twitter.com/ThatRandomGuy09) 
