@@ -1,42 +1,28 @@
-![](https://komarev.com/ghpvc/?username=ThatRandomGuy09)
-<br/>
-### Hey, I'm Vansh, Product Engineer at Superfone 
+### Hey, I'm Vansh
 
-I'm a 24-year-old developer based in India, and I'm passionate about Full Stack Development. 
+Product Engineer at [Superfone](https://superfone.in). I take features from the database row to the last pixel, and stay with them until they hold up in production.
 
-- Check out my [Portfolio](https://vanshvasishtha.vercel.app/) to learn more about me.
-- Stay updated with my journey on [X](https://twitter.com/ThatRandomGuy09) 
+**Day job**
+- AI voice agents that answer calls, chase leads, and follow up on WhatsApp when nobody picks up
+- Chatbots that do real work in the CRM: move lead stages, assign agents, write notes, open tasks
+- A WhatsApp inbox built for teams, from the UI down to the telephony layer
 
-## 🔭 Current Endeavors 
+**After hours**
+- Full-stack products for clients, web and mobile. They're under NDA, so most of those repos are private. The green squares are real, I promise.
 
-I'm currently a full-stack developer, and my journey involves both building and learning Here's what I'm currently focused on:
-- I'm engaged in exciting full-stack projects.
-- I'm an early riser, always driven and constantly learning in the tech world.
+**Happy to nerd out about**
+Postgres deadlocks, multi-tenant migrations that don't wake anyone up at 3 AM, and why your `useEffect` ran twice.
 
-  ## 📦 Toolbox
+```ts
+// vansh.stack.ts
+export const stack = {
+  frontend: ["TypeScript", "React", "Next.js", "Redux Toolkit", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Socket.IO", "Prisma"],
+  data: ["PostgreSQL", "MongoDB", "Redis"],
+  shipping: ["Expo", "AWS", "Docker", "Vercel"],
+} as const;
+```
 
-**Frontend Development:**  `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `shadcn/ui` `Framer-Motion`
- 
-**Version Control:** `Git` `GitLab`
+**Off the keyboard:** chess, football, books, and whatever's on loop on Spotify.
 
-**Backend Development:** `Node.js` `Express.js` `Next.js`  
-
-**Databases:** `PostgreSQL` `MongoDB` `Firebase`
-
-**Testing:**  `Postman`
-
-**Others:** `Docker` `Redis` `Prisma` `Drizzle`
-
-**Deployments:**  `Vercel` `AWS` `Netlify` `Railway` `Cloudfare`
-
-
-## ✨ Fun Facts 
-
-- I love playing Chess and Football.
-- I read in my free time.
-
-## 📫 Contact
-
- For a quick response, Mail me on [Gmail](vanshhcodes@gmail.com) OR [cal.com](https://cal.com/thatrandomguy09/15min?date=2024-09-10)
-
- 
+[Portfolio](https://vansh-dev.site/) · [LinkedIn](https://www.linkedin.com/in/thatrandomguy09/) · [X](https://twitter.com/ThatRandomGuy09) · [Email](mailto:vanshhcodes@gmail.com) · [Let's talk](https://calendar.app.google/NvdML7T4KertZUNj9)
